@@ -1,1 +1,1 @@
-- Using getters and setters to set a neak and price each morning for a restaurant's Today's Special
+- Using getters and setters to set a meal and price each morning for a restaurant's Today's Special
